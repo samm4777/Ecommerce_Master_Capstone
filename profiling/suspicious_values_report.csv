@@ -1,0 +1,5 @@
+Dataset,Check,Result
+orders,Order Status Values,"delivered, invoiced, shipped, processing, unavailable, canceled, created, approved"
+payments,Negative Payment Values,0
+order_items,Negative Product Prices,0
+products,Missing Product Weight,2

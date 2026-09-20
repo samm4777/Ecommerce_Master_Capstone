@@ -1,0 +1,8 @@
+Dataset,Possible Unique Identifier,Unique Values
+customers,customer_id,99441
+orders,order_id,99441
+orders,customer_id,99441
+products,product_id,32951
+sellers,seller_id,3095
+category_translation,product_category_name,71
+category_translation,product_category_name_english,71

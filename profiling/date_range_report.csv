@@ -1,0 +1,6 @@
+Dataset,Column,Minimum Date,Maximum Date,Invalid Dates
+order_items,shipping_limit_date,2016-09-19 00:15:34,2020-04-09 22:35:08,0
+order_reviews,review_creation_date,2016-10-02 00:00:00,2018-08-31 00:00:00,0
+orders,order_delivered_carrier_date,2016-10-08 10:34:01,2018-09-11 19:48:28,1783
+orders,order_delivered_customer_date,2016-10-11 13:46:32,2018-10-17 13:22:46,2965
+orders,order_estimated_delivery_date,2016-09-30 00:00:00,2018-11-12 00:00:00,0
