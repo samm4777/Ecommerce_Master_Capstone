@@ -1,0 +1,3 @@
+Population,Orders,Unique Customers,One-Order Customers,Repeat Customers,Repeat Customer Rate %,Orders From Repeat Customers,Additional Orders Beyond First,Maximum Orders Per Customer
+All orders,99441,96096,93099,2997,3.12,6342,3345,17
+Delivered orders only,96478,93358,90557,2801,3.0,5921,3120,15
