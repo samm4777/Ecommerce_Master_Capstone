@@ -1,0 +1,9 @@
+Metric,Raw,Python,SQL,Power BI,Match
+Total Orders,99441,99441,99441,Pending Phase 26,Yes
+Delivered Orders,96478,96478,96478,Pending Phase 26,Yes
+Cancelled Orders,625,625,625,Pending Phase 26,Yes
+Order Items,112650,112650,112650,Pending Phase 26,Yes
+Customers,99441,99441,99441,Pending Phase 26,Yes
+Merchandise Value,13591643.70,13591643.70,13591643.70,Pending Phase 26,Yes
+Freight Value,2251909.54,2251909.54,2251909.54,Pending Phase 26,Yes
+Payment Value,16008872.12,16008872.12,16008872.12,Pending Phase 26,Yes
