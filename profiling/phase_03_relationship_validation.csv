@@ -1,0 +1,20 @@
+Check,Count
+Customer IDs associated with multiple orders,0
+Customer records unused by orders,0
+Distinct customer_unique_id values,96096
+Orders with multiple items records,9803
+Orders without items,775
+Orders with multiple payments records,2961
+Orders without payments,1
+Orders with multiple reviews records,547
+Orders without reviews,768
+Products with missing category,610
+Products with non-null unmatched category,13
+Exact duplicate geolocation rows,261831
+ZIP prefixes with multiple geolocation rows,17972
+customers: missing ZIP prefixes,0
+customers: non-null unmatched ZIP prefixes,278
+sellers: missing ZIP prefixes,0
+sellers: non-null unmatched ZIP prefixes,7
+Missing review scores,0
+Non-null invalid review scores,0

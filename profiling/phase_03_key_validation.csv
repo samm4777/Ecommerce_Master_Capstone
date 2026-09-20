@@ -1,0 +1,10 @@
+Table,Candidate Key,Null Key Rows,Rows in Duplicate Key Groups,Result
+customers,customer_id,0,0,PASS
+orders,order_id,0,0,PASS
+products,product_id,0,0,PASS
+sellers,seller_id,0,0,PASS
+categories,product_category_name,0,0,PASS
+items,order_id + order_item_id,0,0,PASS
+payments,order_id + payment_sequential,0,0,PASS
+reviews,review_id,0,1603,INVESTIGATE
+reviews,order_id + review_id,0,0,PASS

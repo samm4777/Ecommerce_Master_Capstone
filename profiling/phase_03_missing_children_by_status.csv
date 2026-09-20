@@ -1,0 +1,14 @@
+Missing Child Table,Order Status,Order Count
+items,canceled,164
+items,created,5
+items,invoiced,2
+items,shipped,1
+items,unavailable,603
+payments,delivered,1
+reviews,canceled,20
+reviews,created,2
+reviews,delivered,646
+reviews,invoiced,5
+reviews,processing,6
+reviews,shipped,75
+reviews,unavailable,14
