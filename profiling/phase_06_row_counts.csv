@@ -1,0 +1,10 @@
+Table,Raw Rows,Prepared Rows,Exact Duplicate Rows Removed
+customers,99441,99441,0
+orders,99441,99441,0
+order_items,112650,112650,0
+order_payments,103886,103886,0
+order_reviews,99224,99224,0
+products,32951,32951,0
+sellers,3095,3095,0
+geolocation,1000163,738332,261831
+category_translation,71,71,0
